@@ -1,0 +1,38 @@
+Quartus Prime Archive log --	C:/intelFPGA_lite/18.0/385/385lab6/pt2/pt2_tmp_archive.qarlog
+
+Archive:	C:/intelFPGA_lite/18.0/385/385lab6/pt2/pt2_tmp_archive.qar
+Date:		Fri Oct 12 11:11:20 2018
+Quartus Prime		18.0.0 Build 614 04/24/2018 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/ALU.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/HexDriver.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/ISDU.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/MUX2to1.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/MUX4to1.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/Mem2IO.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/NZP.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/SLC3_2.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/datapath.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/lab6_toplevel.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/memory_contents.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/pt2.qpf
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/pt2.qsf
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/reg_16.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/reg_BEN.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/regs.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/slc3.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/test_memory.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/testbench.sv
+C:/intelFPGA_lite/18.0/385/385lab6/pt2/tristate.sv
+c:/intelfpga_lite/18.0/quartus/bin64/assignment_defaults.qdf
+	======= Total: 21 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Oct 12 11:11:23 2018
+Source archive file:	C:/intelFPGA_lite/18.0/385/385lab6/pt2/pt2_tmp_archive.qar
+Archive was extracted into	D:/ECE385Lab6AB7_Vikram/jchen283_ygan8/
+		 - successfully.
