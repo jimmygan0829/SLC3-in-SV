@@ -1,0 +1,13 @@
+{ "Info" "0" "" "qar.tcl version #1" {  } {  } 0 0 "qar.tcl version #1" 0 0 "0" 0 0 1539360678670 ""}
+{ "Info" "0" "" "Including '-use_file_set basic' by default" {  } {  } 0 0 "Including '-use_file_set basic' by default" 0 0 "0" 0 0 1539360679723 ""}
+{ "Info" "0" "" "All project revisions will be stored in common archive pt2_tmp_archive.qar" {  } {  } 0 0 "All project revisions will be stored in common archive pt2_tmp_archive.qar" 0 0 "0" 0 0 1539360679724 ""}
+{ "Info" "0" "" "Initializing files for 'pt2' revision" {  } {  } 0 0 "Initializing files for 'pt2' revision" 0 0 "0" 0 0 1539360679820 ""}
+{ "Info" "0" "" "File Set 'Source control' contains:" { { "Info" "0" "" "Project source and settings files" {  } {  } 0 0 "Project source and settings files" 0 0 "0" 0 0 1539360679834 ""} { "Info" "0" "" "Automatically detected source files" {  } {  } 0 0 "Automatically detected source files" 0 0 "0" 0 0 1539360679834 ""}  } {  } 0 0 "File Set 'Source control' contains:" 0 0 "0" 0 0 1539360679834 ""}
+{ "Warning" "0" "" "Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver" {  } {  } 0 0 "Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver" 0 0 "0" 0 0 1539360680029 ""}
+{ "Info" "0" "" "Archive will store files relative to the closest common parent directory" {  } {  } 0 0 "Archive will store files relative to the closest common parent directory" 0 0 "0" 0 0 1539360680125 ""}
+{ "Info" "IPRJ_ARC_TCL_TCL_USING_COMMON_DIR" "C:/intelFPGA_lite/18.0/385/385lab6/pt2/ " "Using common directory C:/intelFPGA_lite/18.0/385/385lab6/pt2/" {  } {  } 0 13213 "Using common directory %1!s!" 0 0 "Design Software" 0 -1 1539360680184 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1539360680331 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1539360680331 ""}
+{ "Info" "0" "" "Generated archive 'pt2_tmp_archive.qar'" {  } {  } 0 0 "Generated archive 'pt2_tmp_archive.qar'" 0 0 "0" 0 0 1539360680331 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1539360680331 ""}
+{ "Info" "0" "" "----------------------------------------------------------" {  } {  } 0 0 "----------------------------------------------------------" 0 0 "0" 0 0 1539360680331 ""}
